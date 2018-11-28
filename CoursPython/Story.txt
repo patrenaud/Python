@@ -1,0 +1,170 @@
+Bienvenu dans le livre dont vous êtes le héro
+Votre périple débute dans les profondeurs.
+Vous et vos trois autres compagnons êtes en route pour sceller 
+la porte emprisonant Samus et Frelnarque, deux puissantes 
+engeances maléfiques qui tentent de tous les moyens de sortir 
+de leur prison et de semer la terreur sur le monde. Vous savez 
+qu'une clef est nécessaire pour barrer la porte à jamais. 
+Heureusement, depuis quelques jours, une guerrière hors pair se 
+nommant Byrana a fait son apparition dans votre groupe. Elle dit 
+même connaître l'emplacement de cette clef. En marchant de tunnel 
+en tunnel, Byrana vous explique que le chemin se sépare vers deux 
+salles distinctes. L'une plus étroite et l'autre beaucoup plus 
+vaste. Elle vous demande quel trajet serait le plus optimal dans 
+votre cas.
+1 - Aller vers le tunnel étroit. 
+2 - Aller vers le tunnel beaucoup plus vaste.
+17
+Après plusieurs minutes de marche, vous arrivez dans un tunnel 
+plus étroit que la normale. Vous ne pouvez qu'être deux de large 
+dans cette partie et vous vous sentez confiné. Quelques instants 
+plus tard, vous entendez des bruits arriver du plafond du tunnel 
+et, soudainement, d'horribles hommes-lézard apparaissent devant 
+vous. À vos côté, Byrana sort son épée et terasse la cible se 
+trouvant devant elle. Il ne reste plus qu'à tuer ce monstre pour 
+prouver votre valeur.
+26
+Après quelques minutes de marche, vous arrivez dans une ouverture 
+gigantesque. Lorsque vous regardez vers les extrémités de la pièce, 
+vous apercevez à peine les murs. << Ceci me semble louche >> 
+s'exprima Byrana. Quelques secondes après ces paroles, un sifflement 
+se fit entendre au loin. Byrana sortie son épée et, d'un geste 
+habile, elle dévia un projectile vers le sol. Vous appercevez une 
+flèche ressemblant à un os taillé. <<Des archers! Courrez!>> Vous 
+canalisez vos forces et décollez. Vous entendez les flèches siffler 
+près de votre tête. Malgré tout, vous devez vous rendre à l'autre 
+bout de l'ouverture sans recevoir de flèches.
+37
+DeadFight1
+L'homme-lézard devant vous sort ses griffes acérées et rapidement 
+porte plusieurs coups en succession au niveaudu visage. Vous sentez 
+le sang monter à l'intérieur de votre bouche. Votre sang se vide 
+rapidement jusqu'à la mort
+43
+DeadArchers
+Vers la fin de votre course, une douleur atroce se fit ressentir 
+an niveau de votre jambe. En tombant par terre, vous observez 
+celle-ci devenir mauve. Malheureusement, le poison des flèches 
+paralysa votre jambe et plusieurs autres flèches vinrent trouer 
+votre corps.
+50
+CliffStairs
+<<Ouf! J'espère bien ne jamais avoir à refaire avec ces 
+aboninations!>> Byrana rangea son épée dans son fourreau d'un air 
+désinvolte. Au même moment, une forte douleur frappa Byrana et vous 
+voyez votre compagne tomber à genou la tête entre les mains. <<Non! 
+C'est injuste! Vous ne pouvez pas faire ça!>> s'écria-t-elle. Un 
+peu abasourdi, vous attendez que le tout s'arrête en écoutant des 
+cris plus perçants l'un de l'autre. Vous croyez même avoir aperçu 
+une lueur rougeâtre dans ses yeux. Après quelques minutes, Byrana 
+se leva d'un bon et repris la route. Elle ne semble ne pas vouloir 
+parler des derniers événements. Pour descendre plus profond vers 
+cette porte que vous devez vérouiller, deux choix s'offrent à vous.
+1 - Descendre la falaise en escalade
+2 - Descendre les marches 
+65
+Cliff
+Vous sortez une corde de votre équipement et l'attachez fermement 
+à une énorme roche avant d'entreprendre la descente. En jetant un 
+regard vers le bas, vous ne voyez que du noir et n'avez aucune idée 
+de la profondeur. L'un des membre de votre groupe lança aussitôt une 
+torche vers le fond qui s'éteignit après quelques secondes. Il semble 
+y avoir de l'eau au bas de cette falaise. Vous sentant en sécurté, 
+vous entreprenez votre descente avec vos 4 compagnons.
+74
+DeadCliff
+Vous entendez un frottement intense au haut de la falaise. Sans crier 
+gare, vous tombez jusque dansl'eau au bas de la falaise. C'est à ce 
+moment que vous observez votre corde et vous souvenez e ce qui est 
+attaché à l'autre extrémité...
+80
+Stairs
+Vous entreprenez la descente de la façon la plus sécuritaire possible. 
+En descendant les marches en colimaçon, vous tenez les murs avec vos 
+mains pour vous assurer de ne pas être pris de malchance. La descente 
+semble prendre tellement de temps que vous avez parfois des moments 
+d'inattention.
+87
+DeadStairs
+La malchance vous habite. Vous trébuchez dans l'une des dernière 
+marche et échappez votre épée au même moment. Celle-ci bloque entre 
+deux rochers et vous tombez malheureusement sur votre épée vous 
+perçant le ventre jusqu'à la garde...
+93
+Traitor
+Finalement rendu au plus bas des souterrains, vous trouver devant 
+une embouchure menant vers la salle principale défendant la porte en 
+question. Vous entendez même des grognement d'engeances ressemblants 
+aux créatures auxquelles vous avez fait farce à la surface lors de 
+votre chemin ici. Vous sentez le devoir de vaincre vos ennemis et 
+d'enfermer Samus et Frelnarque à tout jamais. Prêts à bondir, votre 
+regard quitte l'attention de l'embouchure et vous voyez Byrana, les 
+yeux d'un rouge sombre, observer devant affichant un sourire inquiétant.
+Vos trois fidèles compagnons vous regardent d'un air interrogatif. 
+<<Sonnons-nous la charge ou devons attendre?>> dit l'un d'eux. Vous 
+regardez Byrana d'un air attentif et hésitez un moment. Byrana disait 
+posséder la clef menant vers la victoire mais peut-elle vraiment y 
+arriver dans son état? Les deux choix s'offrant à vous sont:
+1 - Sonnez la charge, la gloire attend notre peuple!
+2 - Stoppez Byrana, elle ne peut porter ce fardeau sans votre aide.
+110
+FightTraitor
+<<Dame Byrana! Arrêtez! Vous devez partager ce fardeau avec nous, 
+vous n'y arriverez pas seul>>. Byrana leva ses yeux rouge d'un air 
+dégoûté. <<Vous croyez vraiment m'empêcher d'accomplir mon destin? 
+Seul un fou pourrait m'enlever la clef!>> Elle sortie son épée de 
+son fourreau et s'empressa de vous attaquer.
+117
+DeadFightTraitor
+D'un geste rapide et efficace, Byrana fit tournoyer son épée à la 
+manière d'une danse et trancha la jugulaire de vos alliés. Ne restant 
+que vous, elle sortie de son manteau un sceptre qui vous endormi 
+aussitôt. Vous ne vous réveillerez malheureusement jamais...
+123
+WinFightTraitre
+Byrana maintenant très faible, l'un de vos compagnons lui 
+trancha la tête d'un coup surpuissant. vous ramassez la clef gisant 
+dans un bain de sang et la mettez dans votre poche. 
+128
+FightFinal
+Vous sonnez la charge! Vous avez peu de temps pour vous rendre à la 
+porte. Comme vos ancêtres vous l'avaient enseignés, vous utilisez 
+toute la force de votre corps pour vous déplacer et pour entailler 
+vos ennemis. Après quelques mouvements, vous voyez vos amis avancer 
+aussi rapidement que vous et comprenez que la bataille est déjà gagnée. 
+Plusieurs engeances tombèrent au sol à la vitesse de l'éclair. Vous 
+achevez l'un des derniers d'entre eux et arrivez finalement à cette 
+porte tant convoitée. Seulement, une dernière engeance se lanca vers 
+vous d'un geste désespéré pour vous achever devant ses maîtres 
+emprisonnés de l'autre côté de la porte.
+140
+WinDead
+D'un geste rapide, vous foudroyez le dernier ennemi en tournant sur 
+vous-même tranchant la tête du monstre. Fier de votre coup, vous 
+observer autour de vous pour voir le visage horrifié de vos amis. 
+Vous comprenez pourquoi en posant les yeux sur Byrana qui se tenait 
+près de la porte. Du sang coulait maintenant de ses yeux et malgré 
+tout elle affichait le plus grand des sourire. Vous tentez de 
+l'éloigner de la porte mais en vain. Elle posa ses mains sur les 
+poignés des deux portes gigantesques contenant Samus et Frelnarque 
+et tenta de les ouvrir. Avec toute la rage qui vous habite, vous 
+décidez de mettre vos énergie pour accomplir votre mission et tentez 
+de tuer votre compagne possédée par une force obscure.
+153
+Success
+Finalement arrivé aux portes, vous vous approchez de la serrure d'un 
+pas décidé. En prenant la clef dans votre main, vous entendez des 
+ricanements de l'autre côté de la porte. Sans faire la même erreur 
+que votre compagne, vous décidez de mettre un terme à la terreur de 
+Samus et Frelnaque et barrez la porte d'un coup sec. Votre peuple 
+pourra enfin prospérer et dormir paisiblement dans un monde en paix.
+161
+DeadFightFinal
+Malheureusement pour vous, malgré le fait que vous étiez si près de 
+votre but, les crocs du montre se planta derrière votre nuque. Un 
+long hurlement de peur retenti dans la salle. Ne pouvant protéger 
+vos amis, votre mission est un échec...
+167
+
+
+
