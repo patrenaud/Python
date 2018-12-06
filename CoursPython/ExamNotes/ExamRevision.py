@@ -87,6 +87,7 @@ class Pan(games.Sprite):
         """ Check for collision with pizza """
         for pizza in self.overlapping_sprites:
             pizza.handle_collide()
+            pizza.destroy
 
 panImage = games.load_image("pan.bmp")
 pan = Pan(image = panImage, x = games.mouse.x, y = games.mouse.y)
